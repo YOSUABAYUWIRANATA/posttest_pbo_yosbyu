@@ -1,2 +1,0 @@
-yosua.Yosua
-yosua.Item
